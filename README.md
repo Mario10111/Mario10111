@@ -75,7 +75,7 @@ Je suis un jeune développeur passionné par le code, la création de projets fo
 
 ## 🚀 Rising Web & Mobile Developer
 
-I’m a young developer passionate about coding, building crazy projects, and exploring modern technologies. My goal? To become a **GOG OF CODE** capable of creating powerful apps like Facebook, WhatsApp, or Google Meet! 💻📱
+I’m a young developer passionate about coding, building crazy projects, and exploring modern technologies. My goal? To become a **GOD OF CODE** capable of creating powerful apps like Facebook, WhatsApp, or Google Meet! 💻📱
 
 ---
 
