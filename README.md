@@ -138,4 +138,3 @@ I’m a young developer passionate about coding, building crazy projects, and ex
 
 ---
 
-Feel free to copy and paste this into your **README.md** file on GitHub! This layout will give your profile a polished, professional look. Ready to go further with your GitHub projects? Let me know if you need help structuring them!
