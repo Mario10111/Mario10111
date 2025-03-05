@@ -1,73 +1,10 @@
-# 👋 Hello Tout le monde , je suis Mario10111 !
 
-## 🚀 Développeur Web & Mobile en pleine ascension
-
-Je suis un jeune développeur passionné par le code, la création de projets fous et les technologies modernes. Mon objectif ? Devenir un **GOD OF CODE** capable de créer des applications puissantes comme Facebook, WhatsApp ou Google Meet ! 💻📱
-
----
-
-## 🌐 Ce que je maîtrise déjà
-- HTML5, CSS3 (Responsive, Flexbox, Grid)
-- Un peu de JavaScript (DOM, Events, Syntaxe de base)
-
----
-
-## 🔥 Ce que j’apprends en ce moment
-- **Javascript Avancé** (Async/Await, Fetch, Modules)
-- **React.js** (Front-end moderne)
-- **Node.js** (Backend avec API REST)
-- **Flutter** (Créer des apps mobiles multi-plateformes)
-
----
-
-## 🛠️ Mes outils préférés
-| Outil        | Pourquoi je l’adore 🔥 |
-|--------------|--------------------|
-| VS Code      | Mon QG de code |
-| GitHub       | Mon portfolio vivant |
-| Figma        | Pour bosser comme un designer |
-| Notion       | Pour mon cerveau 2.0 |
-| Firebase     | Backend rapide pour mes apps |
-
----
-
-## 📊 Mes Statistiques GitHub
-![Mario's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mario10111&show_icons=true&theme=radical)
-
----
-
-## 📈 Mon Objectif 2025
-✅ Devenir Fullstack Web & Mobile  
-✅ Publier 10+ projets solides sur mon GitHub  
-✅ Participer à 3 hackathons internationaux  
-✅ Construire un portfolio légendaire  
-✅ Créer une app virale sur PlayStore
-
----
-
-## 💬 Restons connectés !
-- LinkedIn : [Bientôt prêt](#)
-- Twitter : [En construction](#)
-- Portfolio : [Soon...](#)
-
----
 
 ⚡ "Le Code c’est ma baguette magique, chaque bug que je corrige me rend plus fort !"
 
----
-
-## 🔥 Projets Épinglés
-
-| Projet         | Description courte |
-|----------------|------------------|
-| Portfolio Pro  | Mon portfolio 100% codé |
-| ToDo List app    Une App Web 100% codé aussi
 
 
 
-
-
- My **README.md** translated into English:
 
 ---
 
