@@ -1,6 +1,5 @@
 
 
-⚡ "Le Code c’est ma baguette magique, chaque bug que je corrige me rend plus fort !"
 
 
 
