@@ -6,18 +6,30 @@
 
 
 ---
+# [Mario] 👨‍💻
 
-## 👋 Hello World, I’m Mario10111!
+## 🚀 About Me
 
-## 🚀 Rising Web & Mobile Developer
+Hello! I’m passionate about web and mobile development. I love creating simple, useful, and interactive applications. If you have cool projects or ideas to share, feel free to reach out! 🤝
 
-I’m a young developer passionate about coding, building crazy projects, and exploring modern technologies. My goal? To become a **GOD OF CODE** capable of creating powerful apps like Facebook, WhatsApp, or Google Meet! 💻📱
 
 ---
+## 🎮 Hobbies
 
-## 🌐 What I already master
-- HTML5, CSS3 (Responsive, Flexbox, Grid)
-- A bit of JavaScript (DOM, Events, Basic Syntax)
+- 🎮 Playing video games and escape rooms  
+- 📚 Reading books and mangas  
+- 🏃‍♂️ Walking or doing sports  
+- 🎶 Listening to music or discovering new artists  
+
+## 💻 Skills
+
+- **HTML** : ⭐⭐⭐⭐⭐  
+- **CSS** : ⭐⭐⭐ 
+- **JavaScript** : ⭐⭐
+- **Python** : ⭐⭐
+- **React** : ⭐⭐
+- **SQL** : ⭐
+
 
 ---
 
@@ -45,11 +57,10 @@ I’m a young developer passionate about coding, building crazy projects, and ex
 
 ---
 
-## 📈 My 2025 Goal
+## 📈 My  Goal
 ✅ Become Fullstack Web & Mobile  
 ✅ Publish 10+ solid projects on GitHub  
-✅ Participate in 3 international hackathons  
-✅ Build a legendary portfolio  
+✅ Participate in  international hackathons    
 ✅ Create a viral app on PlayStore
 
 ---
@@ -61,10 +72,6 @@ I’m a young developer passionate about coding, building crazy projects, and ex
 
 ---
 
-⚡ "Code is my magic wand, every bug I fix makes me stronger!"
-
----
-
 ## 🔥 Pinned Projects
 
 | Project        | Short Description |
@@ -73,4 +80,13 @@ I’m a young developer passionate about coding, building crazy projects, and ex
 | ToDo App       | A simple ToDo app with React.js |
 
 ---
+
+## 📩 Contact
+
+- 📧 Send me an email: [dylanelokossousoton@gmail.com](mailto:dylanelokossousoton@gmail.com)  
+- 🐦 Follow me on Twitter: [@twitter](https://twitter.com/yourpseudo)  
+- 🌟 Star my projects if you like what you see!  
+
+---
+
 
